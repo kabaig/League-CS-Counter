@@ -1,0 +1,9 @@
+C:\Users\Khurram Work\Desktop\League CS Counter\League CS Counter\bin\Debug\League CS Counter.exe
+C:\Users\Khurram Work\Desktop\League CS Counter\League CS Counter\bin\Debug\League CS Counter.pdb
+C:\Users\Khurram Work\Desktop\League CS Counter\League CS Counter\bin\Debug\League CS Counter.xml
+C:\Users\Khurram Work\Desktop\League CS Counter\League CS Counter\obj\Debug\League_CS_Counter.Form1.resources
+C:\Users\Khurram Work\Desktop\League CS Counter\League CS Counter\obj\Debug\League_CS_Counter.Resources.resources
+C:\Users\Khurram Work\Desktop\League CS Counter\League CS Counter\obj\Debug\League CS Counter.vbproj.GenerateResource.Cache
+C:\Users\Khurram Work\Desktop\League CS Counter\League CS Counter\obj\Debug\League CS Counter.exe
+C:\Users\Khurram Work\Desktop\League CS Counter\League CS Counter\obj\Debug\League CS Counter.xml
+C:\Users\Khurram Work\Desktop\League CS Counter\League CS Counter\obj\Debug\League CS Counter.pdb
